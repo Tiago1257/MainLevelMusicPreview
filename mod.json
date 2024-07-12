@@ -1,0 +1,15 @@
+{
+	"geode": "3.2.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "1257plays.main_level_music_preview",
+	"name": "Main Level Music Preview",
+	"version": "v1.0.0",
+	"developer": "1257Plays",
+	"description": "Plays the level song on the level select menu!",
+	"repository": "https://github.com/Tiago1257/MainLevelMusicPreview"
+}
